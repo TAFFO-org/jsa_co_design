@@ -1,0 +1,5 @@
+var_scaling_factor,var_name,var_min,var_max,var_isnan,var_isinf
+64,tsteps,10.000000,10.000000,0,0
+64,A,6.400000,1283.199951,0,0
+64,tsteps,10.000000,10.000000,0,0
+64,A,6.400000,1283.199951,0,0

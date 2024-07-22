@@ -1,0 +1,3 @@
+var_scaling_factor,var_name,var_min,var_max,var_isnan,var_isinf
+1024,A,1024.000000,8368.639648,0,0
+1024,A,0.100000,1024.000366,0,0
